@@ -1,0 +1,3 @@
+0 USB
+1 Airpods
+2 other
